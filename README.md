@@ -4,13 +4,13 @@ La Context API es una característica de React que proporciona una forma de pasa
 
 ### ejemplo sin context
 
-![sin context api](/api-context%20v.1/public/c1.png)
+![sin context api](/images-No-Borrar-Qliaw/c1.png)
 
 ####
 
 ### ejemplo con context
 
-![sin context api](/api-context%20v.1/public/c2.png)
+![sin context api](/images-No-Borrar-Qliaw/c2.png)
 
 ## ¿Cómo funciona?
 
